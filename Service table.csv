@@ -1,0 +1,202 @@
+service_id,title,description,price,cleaner_username,available,created_at,service_duration,available_days,available_start_time,available_end_time,view_count
+1,"Move-in/Move-out Cleaning","Detailed kitchen cleaning including appliances and cabinets.",227,cleaner123,1,"2025-05-09 01:01:51",180,"Tue,Thu",09:00:00,15:00:00,0
+2,"Office Cleaning","Detailed kitchen cleaning including appliances and cabinets.",237,cleaner123,1,"2025-05-09 01:01:51",120,"Tue,Thu",12:00:00,17:00:00,0
+3,"Dusting Service","Professional cleaning for office spaces to maintain a productive environment.",197,cleaner123,1,"2025-05-09 01:01:51",180,"Mon,Wed,Fri",12:00:00,17:00:00,0
+4,"Post-Construction Cleaning","Specialized cleaning to remove construction debris and dust.",341,maryjohnson1,1,"2025-05-09 01:01:51",90,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,18:00:00,0
+5,"Kitchen Deep Clean","Deep cleaning of carpets to remove stains and refresh fibers.",141,maryjohnson1,1,"2025-05-09 01:01:51",60,"Sat,Sun",10:00:00,17:00:00,0
+6,"Basic House Cleaning","Crystal clear window cleaning, inside and out.",203,maryjohnson1,1,"2025-05-09 01:01:51",240,"Tue,Thu",08:00:00,15:00:00,0
+7,"Upholstery Cleaning","Luxury cleaning service with premium products and extra attention to detail.",141,jennifergarcia5,1,"2025-05-09 01:01:51",120,"Sat,Sun",12:00:00,16:00:00,0
+8,"Kitchen Deep Clean","Detailed kitchen cleaning including appliances and cabinets.",180,jennifergarcia5,1,"2025-05-09 01:01:51",60,"Mon,Tue,Wed,Thu,Fri",10:00:00,18:00:00,0
+9,"Upholstery Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",271,jennifergarcia5,1,"2025-05-09 01:01:51",240,"Sat,Sun",09:00:00,18:00:00,0
+10,"Carpet Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",161,elizabethmartinez9,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,16:00:00,0
+11,"Window Cleaning","Regular weekly cleaning maintenance to keep your space spotless.",133,elizabethmartinez9,1,"2025-05-09 01:01:51",60,"Sat,Sun",10:00:00,18:00:00,0
+12,"Spring Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",255,elizabethmartinez9,1,"2025-05-09 01:01:51",180,"Mon,Wed,Fri",09:00:00,17:00:00,0
+13,"Carpet Cleaning","Thorough cleaning of refrigerators inside and out.",166,jessicawilson13,1,"2025-05-09 01:01:51",60,"Mon,Tue,Wed,Thu,Fri",10:00:00,17:00:00,0
+14,"Move-in/Move-out Cleaning","Professional floor polishing to restore shine and protect surfaces.",201,jessicawilson13,1,"2025-05-09 01:01:51",180,"Tue,Thu",10:00:00,18:00:00,0
+15,"Premium House Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",144,jessicawilson13,1,"2025-05-09 01:01:51",60,"Sat,Sun",08:00:00,20:00:00,0
+16,"Carpet Cleaning","Single session comprehensive cleaning for special occasions.",337,karenmoore17,1,"2025-05-09 01:01:51",90,"Mon,Wed,Fri",09:00:00,15:00:00,0
+17,"Monthly Maintenance","Professional cleaning for office spaces to maintain a productive environment.",179,karenmoore17,1,"2025-05-09 01:01:51",60,"Mon,Wed,Fri",09:00:00,20:00:00,0
+18,"Dusting Service","Professional cleaning for office spaces to maintain a productive environment.",241,karenmoore17,1,"2025-05-09 01:01:51",240,"Sat,Sun",09:00:00,20:00:00,0
+19,"Basic House Cleaning","Thorough cleaning of refrigerators inside and out.",163,lisaperez21,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,17:00:00,0
+20,"Bathroom Sanitization","Monthly deep cleaning to maintain your home or office.",218,lisaperez21,1,"2025-05-09 01:01:51",60,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,15:00:00,0
+21,"Office Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",305,lisaperez21,1,"2025-05-09 01:01:51",240,"Mon,Wed,Fri",08:00:00,16:00:00,0
+22,"Window Cleaning","Monthly deep cleaning to maintain your home or office.",113,margaretjohnson25,1,"2025-05-09 01:01:51",60,"Sat,Sun",09:00:00,15:00:00,0
+23,"Bi-weekly Maintenance","Thorough cleaning of refrigerators inside and out.",163,margaretjohnson25,1,"2025-05-09 01:01:51",120,"Sat,Sun",09:00:00,18:00:00,0
+24,"Carpet Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",206,margaretjohnson25,1,"2025-05-09 01:01:51",240,"Mon,Wed,Fri",10:00:00,16:00:00,0
+25,"Upholstery Cleaning","Detailed kitchen cleaning including appliances and cabinets.",181,ashleygarcia29,1,"2025-05-09 01:01:51",240,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+26,"Weekly Maintenance","Complete sanitization of bathroom fixtures and surfaces.",257,ashleygarcia29,1,"2025-05-09 01:01:51",240,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+27,"Kitchen Deep Clean","Specialized cleaning to remove construction debris and dust.",85,ashleygarcia29,1,"2025-05-09 01:01:51",60,"Mon,Tue,Wed,Thu,Fri",09:00:00,16:00:00,0
+28,"Monthly Maintenance","Professional cleaning for office spaces to maintain a productive environment.",181,marymartinez33,1,"2025-05-09 01:01:51",120,"Sat,Sun",09:00:00,20:00:00,0
+29,"Monthly Maintenance","Crystal clear window cleaning, inside and out.",99,marymartinez33,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri",12:00:00,20:00:00,0
+30,"Office Cleaning","Professional cleaning for office spaces to maintain a productive environment.",174,marymartinez33,1,"2025-05-09 01:01:51",240,"Tue,Thu",12:00:00,15:00:00,0
+31,"Carpet Cleaning","Professional floor polishing to restore shine and protect surfaces.",221,jenniferwilson37,1,"2025-05-09 01:01:51",240,"Mon,Wed,Fri",10:00:00,18:00:00,0
+32,"Upholstery Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",229,jenniferwilson37,1,"2025-05-09 01:01:51",180,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,15:00:00,0
+33,"Oven Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",270,jenniferwilson37,1,"2025-05-09 01:01:51",90,"Tue,Thu",08:00:00,20:00:00,0
+34,"Upholstery Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",203,elizabethmoore41,1,"2025-05-09 01:01:51",180,"Tue,Thu",08:00:00,15:00:00,0
+35,"Spring Cleaning","Luxury cleaning service with premium products and extra attention to detail.",52,elizabethmoore41,1,"2025-05-09 01:01:51",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,16:00:00,0
+36,"Bi-weekly Maintenance","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",214,elizabethmoore41,1,"2025-05-09 01:01:51",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,16:00:00,0
+37,"Oven Cleaning","Deep cleaning of carpets to remove stains and refresh fibers.",57,jessicaperez45,1,"2025-05-09 01:01:51",90,"Sat,Sun",10:00:00,20:00:00,0
+38,"One-time Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",332,jessicaperez45,1,"2025-05-09 01:01:51",90,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,15:00:00,0
+39,"Weekly Maintenance","Crystal clear window cleaning, inside and out.",76,jessicaperez45,1,"2025-05-09 01:01:51",180,"Sat,Sun",09:00:00,17:00:00,0
+40,"Bi-weekly Maintenance","Single session comprehensive cleaning for special occasions.",133,karenjohnson49,1,"2025-05-09 01:01:51",180,"Tue,Thu",12:00:00,18:00:00,0
+41,"Deep Cleaning","Detailed cleaning service for when you're moving in or out of a property.",223,karenjohnson49,1,"2025-05-09 01:01:51",120,"Sat,Sun",10:00:00,18:00:00,0
+42,"Move-in/Move-out Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",327,karenjohnson49,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri",08:00:00,17:00:00,0
+43,"Carpet Cleaning","Monthly deep cleaning to maintain your home or office.",216,lisagarcia53,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri",10:00:00,17:00:00,0
+44,"One-time Cleaning","Monthly deep cleaning to maintain your home or office.",96,lisagarcia53,1,"2025-05-09 01:01:51",180,"Mon,Tue,Wed,Thu,Fri",10:00:00,18:00:00,0
+45,"Move-in/Move-out Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",203,lisagarcia53,1,"2025-05-09 01:01:51",90,"Mon,Wed,Fri",10:00:00,15:00:00,0
+46,"Spring Cleaning","Crystal clear window cleaning, inside and out.",349,margaretmartinez57,1,"2025-05-09 01:01:51",180,"Mon,Wed,Fri",12:00:00,16:00:00,0
+47,"Premium House Cleaning","Single session comprehensive cleaning for special occasions.",140,margaretmartinez57,1,"2025-05-09 01:01:51",60,"Tue,Thu",10:00:00,17:00:00,0
+48,"Floor Polishing","Crystal clear window cleaning, inside and out.",180,margaretmartinez57,1,"2025-05-09 01:01:51",180,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,16:00:00,0
+49,"Office Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",67,ashleywilson61,1,"2025-05-09 01:01:51",240,"Sat,Sun",09:00:00,18:00:00,0
+50,"Monthly Maintenance","Professional cleaning for office spaces to maintain a productive environment.",69,ashleywilson61,1,"2025-05-09 01:01:51",120,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,20:00:00,0
+51,"Move-in/Move-out Cleaning","Professional cleaning for office spaces to maintain a productive environment.",255,ashleywilson61,1,"2025-05-09 01:01:51",60,"Mon,Tue,Wed,Thu,Fri",10:00:00,16:00:00,0
+52,"Oven Cleaning","Specialized cleaning to remove construction debris and dust.",207,marymoore65,1,"2025-05-09 01:01:51",90,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,20:00:00,0
+53,"Monthly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",204,marymoore65,1,"2025-05-09 01:01:51",240,"Sat,Sun",09:00:00,17:00:00,0
+54,"Deep Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",293,marymoore65,1,"2025-05-09 01:01:51",240,"Mon,Wed,Fri",12:00:00,15:00:00,0
+55,"Move-in/Move-out Cleaning","Professional floor polishing to restore shine and protect surfaces.",235,jenniferperez69,1,"2025-05-09 01:01:52",90,"Sat,Sun",10:00:00,20:00:00,0
+56,"Spring Cleaning","Crystal clear window cleaning, inside and out.",139,jenniferperez69,1,"2025-05-09 01:01:52",60,"Tue,Thu",09:00:00,16:00:00,0
+57,"Carpet Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",319,jenniferperez69,1,"2025-05-09 01:01:52",90,"Sat,Sun",12:00:00,20:00:00,0
+58,"Monthly Maintenance","Deep cleaning of upholstery to remove dirt and refresh fabrics.",143,elizabethjohnson73,1,"2025-05-09 01:01:52",120,"Sat,Sun",09:00:00,15:00:00,0
+59,"Monthly Maintenance","Detailed cleaning service for when you're moving in or out of a property.",235,elizabethjohnson73,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,17:00:00,0
+60,"Carpet Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",154,elizabethjohnson73,1,"2025-05-09 01:01:52",60,"Tue,Thu",10:00:00,18:00:00,0
+61,"Kitchen Deep Clean","Professional floor polishing to restore shine and protect surfaces.",313,jessicagarcia77,1,"2025-05-09 01:01:52",90,"Mon,Tue,Wed,Thu,Fri",08:00:00,16:00:00,0
+62,"Floor Polishing","Specialized cleaning to remove construction debris and dust.",126,jessicagarcia77,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,15:00:00,0
+63,"Dusting Service","Complete sanitization of bathroom fixtures and surfaces.",258,jessicagarcia77,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri",12:00:00,16:00:00,0
+64,"Post-Construction Cleaning","Professional cleaning for office spaces to maintain a productive environment.",184,karenmartinez81,1,"2025-05-09 01:01:52",60,"Mon,Wed,Fri",12:00:00,17:00:00,0
+65,"Basic House Cleaning","Single session comprehensive cleaning for special occasions.",172,karenmartinez81,1,"2025-05-09 01:01:52",120,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,18:00:00,0
+66,"Window Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",221,karenmartinez81,1,"2025-05-09 01:01:52",90,"Mon,Wed,Fri",09:00:00,16:00:00,0
+67,"Weekly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",102,lisawilson85,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,17:00:00,0
+68,"Carpet Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",134,lisawilson85,1,"2025-05-09 01:01:52",180,"Sat,Sun",09:00:00,15:00:00,0
+69,"Deep Cleaning","Regular weekly cleaning maintenance to keep your space spotless.",192,lisawilson85,1,"2025-05-09 01:01:52",240,"Mon,Wed,Fri",10:00:00,20:00:00,0
+70,"Post-Construction Cleaning","Thorough cleaning of refrigerators inside and out.",344,margaretmoore89,1,"2025-05-09 01:01:52",90,"Sat,Sun",09:00:00,18:00:00,0
+71,"Monthly Maintenance","Detailed kitchen cleaning including appliances and cabinets.",246,margaretmoore89,1,"2025-05-09 01:01:52",90,"Mon,Tue,Wed,Thu,Fri",12:00:00,15:00:00,0
+72,"Monthly Maintenance","Comprehensive cleaning to refresh your home after winter.",280,margaretmoore89,1,"2025-05-09 01:01:52",180,"Tue,Thu",10:00:00,16:00:00,0
+73,"Move-in/Move-out Cleaning","Complete sanitization of bathroom fixtures and surfaces.",198,ashleyperez93,1,"2025-05-09 01:01:52",180,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+74,"Window Cleaning","Monthly deep cleaning to maintain your home or office.",184,ashleyperez93,1,"2025-05-09 01:01:52",180,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+75,"Bi-weekly Maintenance","Specialized cleaning of ovens to remove grease and burnt residue.",258,ashleyperez93,1,"2025-05-09 01:01:52",90,"Tue,Thu",09:00:00,15:00:00,0
+76,"Premium House Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",295,maryjohnson97,1,"2025-05-09 01:01:52",60,"Tue,Thu",10:00:00,15:00:00,0
+77,"Kitchen Deep Clean","Bi-weekly cleaning service to maintain cleanliness with less frequency.",234,maryjohnson97,1,"2025-05-09 01:01:52",90,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,20:00:00,0
+78,"Spring Cleaning","Thorough cleaning of refrigerators inside and out.",227,maryjohnson97,1,"2025-05-09 01:01:52",180,"Sat,Sun",09:00:00,15:00:00,0
+80,"Move-in/Move-out Cleaning","Complete sanitization of bathroom fixtures and surfaces.",105,cleaner123,1,"2025-05-09 01:01:52",180,"Tue,Wed,Thu",09:00:00,17:00:00,0
+81,"One-time Cleaning","Professional cleaning for office spaces to maintain a productive environment.",226,cleaner123,1,"2025-05-09 01:01:52",120,"Mon,Tue,Wed,Thu,Fri",09:00:00,17:00:00,0
+82,"Deep Cleaning","Complete sanitization of bathroom fixtures and surfaces.",335,cleaner123,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+83,"Carpet Cleaning","Single session comprehensive cleaning for special occasions.",223,cleaner123,1,"2025-05-09 01:01:52",90,"Sat,Sun",09:00:00,18:00:00,0
+84,"Window Cleaning","Crystal clear window cleaning, inside and out.",76,cleaner123,1,"2025-05-09 01:01:52",120,"Sat,Sun",09:00:00,20:00:00,0
+85,"Monthly Maintenance","Detailed cleaning service for when you're moving in or out of a property.",233,cleaner123,1,"2025-05-09 01:01:52",120,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,17:00:00,0
+86,"Monthly Maintenance","Comprehensive cleaning to refresh your home after winter.",52,cleaner123,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri",09:00:00,20:00:00,0
+87,"Spring Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",153,cleaner123,1,"2025-05-09 01:01:52",240,"Sat,Sun",09:00:00,20:00:00,0
+88,"Move-in/Move-out Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",248,cleaner123,1,"2025-05-09 01:01:52",90,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,20:00:00,0
+89,"Dusting Service","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",191,cleaner123,1,"2025-05-09 01:01:52",180,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,16:00:00,0
+90,"Post-Construction Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",106,cleaner123,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri",08:00:00,17:00:00,0
+91,"Dusting Service","Specialized cleaning to remove construction debris and dust.",136,cleaner123,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri",12:00:00,18:00:00,0
+92,"Oven Cleaning","Complete sanitization of bathroom fixtures and surfaces.",255,cleaner123,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,16:00:00,0
+93,"Move-in/Move-out Cleaning","Professional cleaning for office spaces to maintain a productive environment.",137,cleaner123,1,"2025-05-09 01:01:52",240,"Mon,Wed,Fri",09:00:00,17:00:00,0
+94,"Floor Polishing","Monthly deep cleaning to maintain your home or office.",211,cleaner123,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri",10:00:00,17:00:00,0
+95,"Carpet Cleaning","Professional floor polishing to restore shine and protect surfaces.",124,cleaner123,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,18:00:00,0
+96,"Weekly Maintenance","Comprehensive cleaning to refresh your home after winter.",56,cleaner123,1,"2025-05-09 01:01:52",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,16:00:00,0
+97,"Oven Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",92,cleaner123,1,"2025-05-09 01:01:52",240,"Tue,Thu",10:00:00,16:00:00,0
+98,"Kitchen Deep Clean","Detailed kitchen cleaning including appliances and cabinets.",156,cleaner123,1,"2025-05-09 01:01:52",60,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,17:00:00,0
+99,"Carpet Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",96,cleaner123,1,"2025-05-09 01:01:52",90,"Tue,Thu",12:00:00,15:00:00,0
+100,"Bathroom Sanitization","Regular weekly cleaning maintenance to keep your space spotless.",168,cleaner123,1,"2025-05-09 01:01:52",90,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,15:00:00,0
+101,"mopping for HDB flat","20 years of experience looking for HDB houses to mop and clean",200,cleaner123,1,"2025-05-09 01:38:33",60,"Mon,Tue",09:00:00,17:00:00,0
+102,"Dusting Service","Single session comprehensive cleaning for special occasions.",74,cleaner123,1,"2025-05-09 14:21:23",60,"Mon,Tue,Wed,Thu,Fri",12:00:00,15:00:00,0
+103,"Basic House Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",80,cleaner123,1,"2025-05-09 14:21:23",240,"Sat,Sun",12:00:00,20:00:00,0
+104,"Refrigerator Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",173,cleaner123,1,"2025-05-09 14:21:23",60,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,17:00:00,0
+105,"Upholstery Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",321,maryjohnson1,1,"2025-05-09 14:21:23",90,"Sat,Sun",08:00:00,15:00:00,0
+106,"Kitchen Deep Clean","Deep cleaning of carpets to remove stains and refresh fibers.",279,maryjohnson1,1,"2025-05-09 14:21:23",60,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,15:00:00,0
+107,"One-time Cleaning","Regular weekly cleaning maintenance to keep your space spotless.",140,maryjohnson1,1,"2025-05-09 14:21:23",180,"Tue,Thu",09:00:00,15:00:00,0
+108,"Post-Construction Cleaning","Crystal clear window cleaning, inside and out.",100,jennifergarcia5,1,"2025-05-09 14:21:23",240,"Tue,Thu",09:00:00,15:00:00,0
+109,"Upholstery Cleaning","Comprehensive cleaning to refresh your home after winter.",90,jennifergarcia5,1,"2025-05-09 14:21:23",60,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,15:00:00,0
+110,"Post-Construction Cleaning","Deep cleaning of carpets to remove stains and refresh fibers.",223,jennifergarcia5,1,"2025-05-09 14:21:23",120,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,18:00:00,0
+111,"Post-Construction Cleaning","Deep cleaning of carpets to remove stains and refresh fibers.",243,elizabethmartinez9,1,"2025-05-09 14:21:23",90,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,20:00:00,0
+112,"Premium House Cleaning","Crystal clear window cleaning, inside and out.",250,elizabethmartinez9,1,"2025-05-09 14:21:23",240,"Tue,Thu",09:00:00,16:00:00,0
+113,"Weekly Maintenance","Crystal clear window cleaning, inside and out.",165,elizabethmartinez9,1,"2025-05-09 14:21:23",120,"Mon,Tue,Wed,Thu,Fri",08:00:00,16:00:00,0
+114,"Basic House Cleaning","Professional cleaning for office spaces to maintain a productive environment.",259,jessicawilson13,1,"2025-05-09 14:21:23",120,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,15:00:00,0
+115,"Floor Polishing","Professional floor polishing to restore shine and protect surfaces.",242,jessicawilson13,1,"2025-05-09 14:21:23",120,"Tue,Thu",12:00:00,17:00:00,0
+116,"Carpet Cleaning","Specialized cleaning of ovens to remove grease and burnt residue.",150,jessicawilson13,1,"2025-05-09 14:21:23",180,"Sat,Sun",12:00:00,20:00:00,0
+117,"Monthly Maintenance","Luxury cleaning service with premium products and extra attention to detail.",257,karenmoore17,1,"2025-05-09 14:21:23",90,"Mon,Wed,Fri",10:00:00,18:00:00,0
+118,"Weekly Maintenance","Detailed cleaning service for when you're moving in or out of a property.",77,karenmoore17,1,"2025-05-09 14:21:23",180,"Sat,Sun",09:00:00,17:00:00,0
+119,"Monthly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",89,karenmoore17,1,"2025-05-09 14:21:23",120,"Tue,Thu",12:00:00,15:00:00,0
+120,"Refrigerator Cleaning","Specialized cleaning to remove construction debris and dust.",103,lisaperez21,1,"2025-05-09 14:21:23",120,"Sat,Sun",10:00:00,20:00:00,0
+121,"Weekly Maintenance","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",178,lisaperez21,1,"2025-05-09 14:21:23",90,"Sat,Sun",12:00:00,15:00:00,0
+122,"Dusting Service","Thorough cleaning of refrigerators inside and out.",138,lisaperez21,1,"2025-05-09 14:21:23",90,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,18:00:00,0
+123,"Upholstery Cleaning","Detailed kitchen cleaning including appliances and cabinets.",101,margaretjohnson25,1,"2025-05-09 14:21:23",120,"Sat,Sun",08:00:00,18:00:00,0
+124,"Weekly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",177,margaretjohnson25,1,"2025-05-09 14:21:23",180,"Mon,Wed,Fri",10:00:00,17:00:00,0
+125,"Basic House Cleaning","Crystal clear window cleaning, inside and out.",252,margaretjohnson25,1,"2025-05-09 14:21:23",180,"Mon,Tue,Wed,Thu,Fri",10:00:00,18:00:00,0
+126,"Office Cleaning","Single session comprehensive cleaning for special occasions.",113,ashleygarcia29,1,"2025-05-09 14:21:23",60,"Sat,Sun",08:00:00,15:00:00,0
+127,"Oven Cleaning","Crystal clear window cleaning, inside and out.",348,ashleygarcia29,1,"2025-05-09 14:21:23",120,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,17:00:00,0
+128,"Move-in/Move-out Cleaning","Detailed cleaning service for when you're moving in or out of a property.",294,ashleygarcia29,1,"2025-05-09 14:21:23",180,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,17:00:00,0
+129,"Kitchen Deep Clean","Thorough cleaning of refrigerators inside and out.",300,marymartinez33,1,"2025-05-09 14:21:23",240,"Mon,Tue,Wed,Thu,Fri",09:00:00,17:00:00,0
+130,"Refrigerator Cleaning","Detailed kitchen cleaning including appliances and cabinets.",196,marymartinez33,1,"2025-05-09 14:21:23",60,"Mon,Wed,Fri",10:00:00,20:00:00,0
+131,"One-time Cleaning","Specialized cleaning to remove construction debris and dust.",161,marymartinez33,1,"2025-05-09 14:21:23",240,"Sat,Sun",08:00:00,15:00:00,0
+132,"Basic House Cleaning","Professional floor polishing to restore shine and protect surfaces.",124,jenniferwilson37,1,"2025-05-09 14:21:23",240,"Sat,Sun",09:00:00,15:00:00,0
+133,"Basic House Cleaning","Monthly deep cleaning to maintain your home or office.",127,jenniferwilson37,1,"2025-05-09 14:21:23",240,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,18:00:00,0
+134,"Window Cleaning","Thorough cleaning of refrigerators inside and out.",202,jenniferwilson37,1,"2025-05-09 14:21:24",180,"Sat,Sun",08:00:00,17:00:00,0
+135,"Bi-weekly Maintenance","Regular weekly cleaning maintenance to keep your space spotless.",174,elizabethmoore41,1,"2025-05-09 14:21:24",90,"Tue,Thu",09:00:00,18:00:00,0
+136,"Carpet Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",233,elizabethmoore41,1,"2025-05-09 14:21:24",180,"Sat,Sun",10:00:00,17:00:00,0
+137,"One-time Cleaning","Complete sanitization of bathroom fixtures and surfaces.",344,elizabethmoore41,1,"2025-05-09 14:21:24",120,"Sat,Sun",12:00:00,16:00:00,0
+138,"Carpet Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",124,jessicaperez45,1,"2025-05-09 14:21:24",120,"Mon,Tue,Wed,Thu,Fri",09:00:00,20:00:00,0
+139,"Dusting Service","Monthly deep cleaning to maintain your home or office.",83,jessicaperez45,1,"2025-05-09 14:21:24",180,"Sat,Sun",08:00:00,20:00:00,0
+140,"Oven Cleaning","Detailed kitchen cleaning including appliances and cabinets.",287,jessicaperez45,1,"2025-05-09 14:21:24",180,"Mon,Tue,Wed,Thu,Fri",12:00:00,20:00:00,0
+141,"Post-Construction Cleaning","Deep cleaning of upholstery to remove dirt and refresh fabrics.",51,karenjohnson49,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,15:00:00,0
+142,"One-time Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",288,karenjohnson49,1,"2025-05-09 14:21:24",60,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,15:00:00,0
+143,"Kitchen Deep Clean","Professional floor polishing to restore shine and protect surfaces.",82,karenjohnson49,1,"2025-05-09 14:21:24",90,"Mon,Wed,Fri",08:00:00,15:00:00,0
+144,"Window Cleaning","Professional cleaning for office spaces to maintain a productive environment.",184,lisagarcia53,1,"2025-05-09 14:21:24",60,"Mon,Wed,Fri",09:00:00,18:00:00,0
+145,"Dusting Service","Bi-weekly cleaning service to maintain cleanliness with less frequency.",150,lisagarcia53,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,15:00:00,0
+146,"Premium House Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",276,lisagarcia53,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri",10:00:00,17:00:00,0
+147,"Oven Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",139,margaretmartinez57,1,"2025-05-09 14:21:24",240,"Mon,Wed,Fri",09:00:00,15:00:00,0
+148,"Monthly Maintenance","Single session comprehensive cleaning for special occasions.",77,margaretmartinez57,1,"2025-05-09 14:21:24",90,"Mon,Tue,Wed,Thu,Fri",09:00:00,16:00:00,0
+149,"Bi-weekly Maintenance","Monthly deep cleaning to maintain your home or office.",262,margaretmartinez57,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,20:00:00,0
+150,"Window Cleaning","Professional cleaning for office spaces to maintain a productive environment.",278,ashleywilson61,1,"2025-05-09 14:21:24",90,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,20:00:00,0
+151,"Kitchen Deep Clean","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",131,ashleywilson61,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,16:00:00,0
+152,"One-time Cleaning","Detailed cleaning service for when you're moving in or out of a property.",201,ashleywilson61,1,"2025-05-09 14:21:24",120,"Sat,Sun",12:00:00,17:00:00,0
+153,"One-time Cleaning","Monthly deep cleaning to maintain your home or office.",227,marymoore65,1,"2025-05-09 14:21:24",120,"Sat,Sun",09:00:00,18:00:00,0
+154,"Monthly Maintenance","Bi-weekly cleaning service to maintain cleanliness with less frequency.",264,marymoore65,1,"2025-05-09 14:21:24",120,"Mon,Tue,Wed,Thu,Fri",08:00:00,20:00:00,0
+155,"Upholstery Cleaning","Thorough cleaning of refrigerators inside and out.",143,marymoore65,1,"2025-05-09 14:21:24",240,"Mon,Wed,Fri",08:00:00,20:00:00,0
+156,"Refrigerator Cleaning","Comprehensive cleaning to refresh your home after winter.",269,jenniferperez69,1,"2025-05-09 14:21:24",240,"Mon,Wed,Fri",08:00:00,18:00:00,0
+157,"Post-Construction Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",256,jenniferperez69,1,"2025-05-09 14:21:24",60,"Sat,Sun",10:00:00,20:00:00,0
+158,"Premium House Cleaning","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",78,jenniferperez69,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,20:00:00,0
+159,"Dusting Service","Professional cleaning for office spaces to maintain a productive environment.",239,elizabethjohnson73,1,"2025-05-09 14:21:24",60,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,15:00:00,0
+160,"Premium House Cleaning","Detailed cleaning service for when you're moving in or out of a property.",240,elizabethjohnson73,1,"2025-05-09 14:21:24",180,"Mon,Wed,Fri",08:00:00,17:00:00,0
+161,"Office Cleaning","Comprehensive cleaning to refresh your home after winter.",246,elizabethjohnson73,1,"2025-05-09 14:21:24",90,"Mon,Wed,Fri",10:00:00,18:00:00,0
+162,"Dusting Service","Specialized cleaning of ovens to remove grease and burnt residue.",245,jessicagarcia77,1,"2025-05-09 14:21:24",120,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,16:00:00,0
+163,"Office Cleaning","Detailed kitchen cleaning including appliances and cabinets.",235,jessicagarcia77,1,"2025-05-09 14:21:24",120,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,15:00:00,0
+164,"Premium House Cleaning","Detailed cleaning service for when you're moving in or out of a property.",342,jessicagarcia77,1,"2025-05-09 14:21:24",180,"Sat,Sun",12:00:00,18:00:00,0
+165,"Oven Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",177,karenmartinez81,1,"2025-05-09 14:21:24",240,"Tue,Thu",08:00:00,16:00:00,0
+166,"Spring Cleaning","Professional floor polishing to restore shine and protect surfaces.",189,karenmartinez81,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",09:00:00,20:00:00,0
+167,"Oven Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",128,karenmartinez81,1,"2025-05-09 14:21:24",60,"Tue,Thu",10:00:00,16:00:00,0
+168,"Kitchen Deep Clean","Complete sanitization of bathroom fixtures and surfaces.",251,lisawilson85,1,"2025-05-09 14:21:24",180,"Mon,Wed,Fri",08:00:00,16:00:00,0
+169,"Office Cleaning","Luxury cleaning service with premium products and extra attention to detail.",238,lisawilson85,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,16:00:00,0
+170,"Weekly Maintenance","Specialized cleaning to remove construction debris and dust.",261,lisawilson85,1,"2025-05-09 14:21:24",240,"Tue,Thu",08:00:00,15:00:00,0
+171,"Monthly Maintenance","Detailed kitchen cleaning including appliances and cabinets.",167,margaretmoore89,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,16:00:00,0
+172,"Deep Cleaning","Detailed kitchen cleaning including appliances and cabinets.",188,margaretmoore89,1,"2025-05-09 14:21:24",120,"Mon,Wed,Fri",12:00:00,15:00:00,0
+173,"Kitchen Deep Clean","Regular weekly cleaning maintenance to keep your space spotless.",215,margaretmoore89,1,"2025-05-09 14:21:24",120,"Sat,Sun",08:00:00,17:00:00,0
+174,"Basic House Cleaning","Detailed cleaning service for when you're moving in or out of a property.",249,ashleyperez93,1,"2025-05-09 14:21:24",90,"Sat,Sun",10:00:00,15:00:00,0
+175,"Spring Cleaning","Detailed kitchen cleaning including appliances and cabinets.",80,ashleyperez93,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,16:00:00,0
+176,"Bathroom Sanitization","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",262,ashleyperez93,1,"2025-05-09 14:21:24",60,"Mon,Tue,Wed,Thu,Fri",09:00:00,17:00:00,0
+177,"Refrigerator Cleaning","Specialized cleaning to remove construction debris and dust.",214,maryjohnson97,1,"2025-05-09 14:21:24",180,"Mon,Wed,Fri",08:00:00,15:00:00,0
+178,"Move-in/Move-out Cleaning","Regular weekly cleaning maintenance to keep your space spotless.",198,maryjohnson97,1,"2025-05-09 14:21:24",240,"Tue,Thu",09:00:00,18:00:00,0
+179,"Upholstery Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",332,maryjohnson97,1,"2025-05-09 14:21:24",120,"Tue,Thu",08:00:00,20:00:00,0
+180,"Bi-weekly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",128,cleaner123,1,"2025-05-09 14:21:24",60,"Tue,Thu",10:00:00,15:00:00,0
+181,"Weekly Maintenance","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",76,cleaner123,1,"2025-05-09 14:21:24",120,"Tue,Thu",08:00:00,15:00:00,0
+182,"One-time Cleaning","Complete sanitization of bathroom fixtures and surfaces.",213,cleaner123,1,"2025-05-09 14:21:24",90,"Tue,Thu",10:00:00,20:00:00,0
+183,"Carpet Cleaning","Deep cleaning of carpets to remove stains and refresh fibers.",113,cleaner123,1,"2025-05-09 14:21:24",240,"Mon,Tue,Wed,Thu,Fri",09:00:00,18:00:00,0
+184,"Deep Cleaning","Specialized cleaning to remove construction debris and dust.",116,cleaner123,1,"2025-05-09 14:21:24",90,"Mon,Tue,Wed,Thu,Fri,Sat",12:00:00,20:00:00,0
+185,"Kitchen Deep Clean","Complete sanitization of bathroom fixtures and surfaces.",338,cleaner123,1,"2025-05-09 14:21:24",240,"Sat,Sun",08:00:00,15:00:00,0
+186,"Floor Polishing","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",261,cleaner123,1,"2025-05-09 14:21:24",120,"Sat,Sun",08:00:00,20:00:00,0
+187,"Office Cleaning","Detailed cleaning service for when you're moving in or out of a property.",245,cleaner123,1,"2025-05-09 14:21:24",240,"Sat,Sun",10:00:00,20:00:00,0
+188,"Premium House Cleaning","Professional cleaning for office spaces to maintain a productive environment.",240,cleaner123,1,"2025-05-09 14:21:25",240,"Mon,Tue,Wed,Thu,Fri",09:00:00,15:00:00,0
+189,"Deep Cleaning","Deep cleaning of carpets to remove stains and refresh fibers.",126,cleaner123,1,"2025-05-09 14:21:25",240,"Mon,Wed,Fri",12:00:00,16:00:00,0
+190,"Oven Cleaning","Detailed kitchen cleaning including appliances and cabinets.",187,cleaner123,1,"2025-05-09 14:21:25",240,"Mon,Tue,Wed,Thu,Fri,Sat",10:00:00,18:00:00,0
+191,"Weekly Maintenance","Regular weekly cleaning maintenance to keep your space spotless.",227,cleaner123,1,"2025-05-09 14:21:25",120,"Mon,Tue,Wed,Thu,Fri,Sat",08:00:00,15:00:00,0
+192,"Floor Polishing","Deep cleaning of carpets to remove stains and refresh fibers.",290,cleaner123,1,"2025-05-09 14:21:25",120,"Sat,Sun",09:00:00,15:00:00,0
+193,"Kitchen Deep Clean","Deep cleaning of carpets to remove stains and refresh fibers.",179,cleaner123,1,"2025-05-09 14:21:25",60,"Mon,Tue,Wed,Thu,Fri",12:00:00,20:00:00,0
+194,"Weekly Maintenance","Complete cleaning of all rooms including dusting, vacuuming, and mopping.",314,cleaner123,1,"2025-05-09 14:21:25",180,"Sat,Sun",12:00:00,18:00:00,0
+195,"Move-in/Move-out Cleaning","Detailed dusting of all surfaces, fixtures, and hard-to-reach areas.",269,cleaner123,1,"2025-05-09 14:21:25",60,"Mon,Tue,Wed,Thu,Fri",10:00:00,18:00:00,0
+196,"Monthly Maintenance","Monthly deep cleaning to maintain your home or office.",91,cleaner123,1,"2025-05-09 14:21:25",90,"Mon,Wed,Fri",08:00:00,16:00:00,0
+197,"Refrigerator Cleaning","Bi-weekly cleaning service to maintain cleanliness with less frequency.",74,cleaner123,1,"2025-05-09 14:21:25",60,"Sat,Sun",08:00:00,15:00:00,0
+198,"Post-Construction Cleaning","Thorough cleaning of refrigerators inside and out.",128,cleaner123,1,"2025-05-09 14:21:25",240,"Tue,Thu",08:00:00,18:00:00,0
+199,"Spring Cleaning","Crystal clear window cleaning, inside and out.",70,cleaner123,1,"2025-05-09 14:21:25",90,"Mon,Wed,Fri",08:00:00,15:00:00,0
+200,"Refrigerator Cleaning","Comprehensive cleaning to refresh your home after winter.",183,cleaner123,1,"2025-05-09 14:21:25",60,"Tue,Thu",10:00:00,16:00:00,0
+201,"Premium House Cleaning","Thorough cleaning of all areas including hard-to-reach spots and detailed attention.",78,cleaner123,1,"2025-05-09 14:21:25",90,"Sat,Sun",09:00:00,16:00:00,0
+202,"deep cleaning","deep cleaining i got 100 years of experience",900,cleaner123,1,"2025-05-09 22:56:47",60,"Mon,Tue,Wed",09:00:00,17:00:00,0
