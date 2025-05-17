@@ -1,4 +1,4 @@
-name: Java CI with Deployment
+name: Java CI/CD Pipeline
 
 on:
   push:
@@ -20,23 +20,48 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
         
+    - name: List files in repository
+      run: ls -la
+      
     - name: Create build directory
       run: mkdir -p build
       
-    - name: Compile Java files
+    - name: Compile Java files with dependencies
       run: |
-        # Find Java files and compile them if they exist
+        # Create a lib directory in the build folder
+        mkdir -p build/lib
+        
+        # Copy all JAR dependencies to the build/lib directory
+        cp lib/*.jar build/lib/ || echo "No JARs to copy"
+        
+        # Find Java files and compile them with the correct classpath
         find_result=$(find . -name "*.java" 2>/dev/null)
         if [ -n "$find_result" ]; then
-          javac -d build $(find . -name "*.java") || echo "Compilation failed but continuing"
+          javac -d build -cp ".:lib/*" $(find . -name "*.java") || echo "Compilation failed but continuing"
         else
           echo "No Java files found to compile"
         fi
       
+    - name: Copy resources
+      run: |
+        # Copy configuration files if they exist
+        cp -f *.json build/ 2>/dev/null || echo "No JSON files to copy"
+        cp -f *.csv build/ 2>/dev/null || echo "No CSV files to copy"
+        cp -f *.properties build/ 2>/dev/null || echo "No properties files to copy"
+      
     - name: Create JAR file
       run: |
+        # Change to build directory
         cd build
-        jar cvf CleaningServiceApp.jar . || echo "JAR creation failed but continuing"
+        
+        # Create manifest for the JAR
+        echo "Main-Class: CleaningServiceApp" > manifest.txt
+        echo "Class-Path: lib/mysql-connector-j-8.0.33.jar lib/jdatepicker-1.3.4.jar" >> manifest.txt
+        
+        # Create the JAR with the manifest
+        jar cvfm CleaningServiceApp.jar manifest.txt . || echo "JAR creation failed but continuing"
+        
+        # List the contents of the build directory
         ls -la
         
     - name: Store artifact in repository
@@ -47,7 +72,16 @@ jobs:
         git checkout -b artifacts || git checkout artifacts
         git pull origin artifacts || true
         mkdir -p artifacts
+        
+        # Copy the JAR and dependent JARs
         cp build/CleaningServiceApp.jar artifacts/ || echo "Copying JAR failed but continuing"
+        mkdir -p artifacts/lib
+        cp lib/*.jar artifacts/lib/ || echo "Copying dependencies failed but continuing"
+        
+        # Create a simple run script
+        echo "java -jar CleaningServiceApp.jar" > artifacts/run.sh
+        chmod +x artifacts/run.sh
+        
         git add artifacts/
         git commit -m "Update artifacts [skip ci]" || echo "No changes to commit"
         git push -f origin artifacts || echo "Push failed"
