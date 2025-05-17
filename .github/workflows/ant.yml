@@ -1,4 +1,4 @@
-name: Java CI with Artifact Upload
+name: Java CI with Deployment
 
 on:
   push:
@@ -39,12 +39,15 @@ jobs:
         jar cvf CleaningServiceApp.jar . || echo "JAR creation failed but continuing"
         ls -la
         
-    - name: Create artifact text file
+    - name: Store artifact in repository
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       run: |
-        echo "This is a test artifact" > build/artifact.txt
-        
-    - name: Upload test artifact
-      uses: actions/upload-artifact@v3  # Try v3 instead of v4
-      with:
-        name: test-artifact
-        path: build/artifact.txt
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git checkout -b artifacts || git checkout artifacts
+        git pull origin artifacts || true
+        mkdir -p artifacts
+        cp build/CleaningServiceApp.jar artifacts/ || echo "Copying JAR failed but continuing"
+        git add artifacts/
+        git commit -m "Update artifacts [skip ci]" || echo "No changes to commit"
+        git push -f origin artifacts || echo "Push failed"
