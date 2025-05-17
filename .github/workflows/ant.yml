@@ -1,4 +1,4 @@
-name: Java CI Basic
+name: Java CI with Artifact Upload
 
 on:
   push:
@@ -20,9 +20,6 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
         
-    - name: List files in repository
-      run: ls -la
-      
     - name: Create build directory
       run: mkdir -p build
       
@@ -42,14 +39,12 @@ jobs:
         jar cvf CleaningServiceApp.jar . || echo "JAR creation failed but continuing"
         ls -la
         
-    - name: Save artifact to workspace
+    - name: Create artifact text file
       run: |
-        mkdir -p artifacts
-        cp build/CleaningServiceApp.jar artifacts/ || echo "Copying JAR failed but continuing"
-        echo "Artifact saved to workspace"
+        echo "This is a test artifact" > build/artifact.txt
         
-    - name: List artifacts directory
-      run: ls -la artifacts
-        
-    - name: Echo success message
-      run: echo "Build and JAR creation completed"
+    - name: Upload test artifact
+      uses: actions/upload-artifact@v3  # Try v3 instead of v4
+      with:
+        name: test-artifact
+        path: build/artifact.txt
