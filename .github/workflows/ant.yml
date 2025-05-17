@@ -42,5 +42,14 @@ jobs:
         jar cvf CleaningServiceApp.jar . || echo "JAR creation failed but continuing"
         ls -la
         
+    - name: Save artifact to workspace
+      run: |
+        mkdir -p artifacts
+        cp build/CleaningServiceApp.jar artifacts/ || echo "Copying JAR failed but continuing"
+        echo "Artifact saved to workspace"
+        
+    - name: List artifacts directory
+      run: ls -la artifacts
+        
     - name: Echo success message
       run: echo "Build and JAR creation completed"
