@@ -69,8 +69,16 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git checkout -b artifacts || git checkout artifacts
-        git pull origin artifacts || true
+        
+        # Try to checkout the artifacts branch, or create it if it doesn't exist
+        if git ls-remote --heads origin artifacts | grep artifacts > /dev/null; then
+          git fetch origin artifacts
+          git checkout artifacts
+        else
+          git checkout -b artifacts
+        fi
+        
+        # Create artifacts directory if it doesn't exist
         mkdir -p artifacts
         
         # Copy the JAR and dependent JARs
@@ -82,6 +90,10 @@ jobs:
         echo "java -jar CleaningServiceApp.jar" > artifacts/run.sh
         chmod +x artifacts/run.sh
         
+        # Commit and push changes
         git add artifacts/
         git commit -m "Update artifacts [skip ci]" || echo "No changes to commit"
-        git push -f origin artifacts || echo "Push failed"
+        git push -f origin artifacts || echo "Push failed but continuing"
+        
+        # Return to the original branch
+        git checkout ${GITHUB_REF#refs/heads/}
